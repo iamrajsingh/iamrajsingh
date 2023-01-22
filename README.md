@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, JavaScript, ReactJs**
 
 - ⚡ Fun fact **Things are quite interesting**
 
