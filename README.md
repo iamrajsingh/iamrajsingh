@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android, JavaScript, ReactJs**
 
