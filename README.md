@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divy</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Android, JavaScript, ReactJs**
+- 💬 Ask me about **JavaScript, ReactJs/NextJs, ExpressJs, MongoDB**
 
 - ⚡ Fun fact **Things are quite interesting**
 
