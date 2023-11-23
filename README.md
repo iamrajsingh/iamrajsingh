@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divy</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **ThreeJs**
 
 - 💬 Ask me about **JavaScript, ReactJs/NextJs, ExpressJs, MongoDB**
 
