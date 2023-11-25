@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ThreeJs**
 
-- 💬 Ask me about **JavaScript, ReactJs/NextJs, ExpressJs, MongoDB**
+- 💬 Ask me about **JavaScript/TypeScript, ReactJs/NextJs, ExpressJs, MongoDB**
 
 - ⚡ Fun fact **Things are quite interesting**
 
